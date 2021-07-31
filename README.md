@@ -8,3 +8,4 @@ List of events:
 - DSGO 2020
 - e-Rum conference 2020
 - Codemotion online tech conference 2021
+- Microsoft Azure Virtual Training Days (07 2021)
