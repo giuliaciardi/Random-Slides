@@ -9,4 +9,4 @@ List of events:
 - e-Rum conference 2020
 - Codemotion online tech conference 2021
 - Microsoft Azure Virtual Training Days (07 2021)
-- 17th Applied Statistics conference - Slovenia
+- 17th Applied Statistics conference - Slovenia (09 2021)
