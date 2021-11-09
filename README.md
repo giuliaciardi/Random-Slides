@@ -7,6 +7,8 @@ List of events:
 - Codemotion online tech conference 2020
 - DSGO 2020
 - e-Rum conference 2020
-- Codemotion online tech conference 2021
+- Codemotion online tech conference 03 2021
 - Microsoft Azure Virtual Training Days (07 2021)
 - 17th Applied Statistics conference - Slovenia (09 2021)
+- Codemotion online tech conference 11 2021
+
