@@ -11,4 +11,5 @@ List of events:
 - Microsoft Azure Virtual Training Days (07 2021)
 - 17th Applied Statistics conference - Slovenia (09 2021)
 - Codemotion online tech conference 11 2021
-
+- MATHEMATICAL ASPECTS OF ALGORITHMIC LEARNING AND DEEP NEURAL NETWORKS - BGS (10-11 2021)
+      https://bgsmath.cat/event/algorithmic-learning-and-deep-neural-networks/
